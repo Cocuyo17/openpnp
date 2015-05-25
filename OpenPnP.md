@@ -1,0 +1,1 @@
+The OpenPnP Wiki has been moved to http://openpnp.org/wiki. Please visit us at our new home!
